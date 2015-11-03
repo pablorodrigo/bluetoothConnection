@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">RoboGuia</string>
+    <string name="bt_conectar">Buscar LEGO NXT</string>
+    <string name="title_activity_lista_dispositivos">ListaDispositivosActivity</string>
+    <string name="bt_pesquisar">Pesquisar</string>
+</resources>
